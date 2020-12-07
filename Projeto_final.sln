@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projeto_final", "Projeto_final\Projeto_final.csproj", "{70927568-D795-4CCF-9EE4-A57364DC30F1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BKP", "BKP", "{FAA17A52-ACDA-4ABC-BEB0-70CAEF1E32BB}"
+	ProjectSection(SolutionItems) = preProject
+		Projeto_final\Migrations\202010221810362_banco.cs = Projeto_final\Migrations\202010221810362_banco.cs
+		Projeto_final\Migrations\202010221810362_banco.designer.cs = Projeto_final\Migrations\202010221810362_banco.designer.cs
+		Projeto_final\Migrations\202010221810362_banco.resx = Projeto_final\Migrations\202010221810362_banco.resx
+		Projeto_final\Migrations\202011170026189_banco1.cs = Projeto_final\Migrations\202011170026189_banco1.cs
+		Projeto_final\Migrations\202011170026189_banco1.designer.cs = Projeto_final\Migrations\202011170026189_banco1.designer.cs
+		Projeto_final\Migrations\202011170026189_banco1.resx = Projeto_final\Migrations\202011170026189_banco1.resx
+		Projeto_final\Migrations\202011170111181_banco2.cs = Projeto_final\Migrations\202011170111181_banco2.cs
+		Projeto_final\Migrations\202011170111181_banco2.designer.cs = Projeto_final\Migrations\202011170111181_banco2.designer.cs
+		Projeto_final\Migrations\202011170111181_banco2.resx = Projeto_final\Migrations\202011170111181_banco2.resx
+		Projeto_final\Migrations\202011241811041_banco3.cs = Projeto_final\Migrations\202011241811041_banco3.cs
+		Projeto_final\Migrations\202011241811041_banco3.designer.cs = Projeto_final\Migrations\202011241811041_banco3.designer.cs
+		Projeto_final\Migrations\202011241811041_banco3.resx = Projeto_final\Migrations\202011241811041_banco3.resx
+		Projeto_final\Migrations\202011241849420_banco4.cs = Projeto_final\Migrations\202011241849420_banco4.cs
+		Projeto_final\Migrations\202011241849420_banco4.designer.cs = Projeto_final\Migrations\202011241849420_banco4.designer.cs
+		Projeto_final\Migrations\202011241849420_banco4.resx = Projeto_final\Migrations\202011241849420_banco4.resx
+		Projeto_final\Migrations\202011241859527_banco5.cs = Projeto_final\Migrations\202011241859527_banco5.cs
+		Projeto_final\Migrations\202011241859527_banco5.designer.cs = Projeto_final\Migrations\202011241859527_banco5.designer.cs
+		Projeto_final\Migrations\202011241859527_banco5.resx = Projeto_final\Migrations\202011241859527_banco5.resx
+		Projeto_final\Migrations\202011242207361_banco6.cs = Projeto_final\Migrations\202011242207361_banco6.cs
+		Projeto_final\Migrations\202011242207361_banco6.designer.cs = Projeto_final\Migrations\202011242207361_banco6.designer.cs
+		Projeto_final\Migrations\202011242207361_banco6.resx = Projeto_final\Migrations\202011242207361_banco6.resx
+		Projeto_final\Migrations\202011302306126_banco10.cs = Projeto_final\Migrations\202011302306126_banco10.cs
+		Projeto_final\Migrations\202011302306126_banco10.designer.cs = Projeto_final\Migrations\202011302306126_banco10.designer.cs
+		Projeto_final\Migrations\202011302306126_banco10.resx = Projeto_final\Migrations\202011302306126_banco10.resx
+		Projeto_final\Migrations\202012010022280_banco11.cs = Projeto_final\Migrations\202012010022280_banco11.cs
+		Projeto_final\Migrations\202012010022280_banco11.designer.cs = Projeto_final\Migrations\202012010022280_banco11.designer.cs
+		Projeto_final\Migrations\202012010022280_banco11.resx = Projeto_final\Migrations\202012010022280_banco11.resx
+		Projeto_final\Migrations\Configuration.cs = Projeto_final\Migrations\Configuration.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70927568-D795-4CCF-9EE4-A57364DC30F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70927568-D795-4CCF-9EE4-A57364DC30F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70927568-D795-4CCF-9EE4-A57364DC30F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70927568-D795-4CCF-9EE4-A57364DC30F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A23C6B23-4A6D-44B1-96BC-1CAA50B92016}
+	EndGlobalSection
+EndGlobal
